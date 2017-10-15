@@ -39,3 +39,6 @@ _ * * * *
 
 13) Fin
 ```
+# Diagrama de flujo
+
+![width='100%'](./diagrama.png)
