@@ -23,7 +23,7 @@ _ * * * *
  6) Mientras( y <= 5) hacer
  
  7) si( resta < y )
-        str = str + " * "; 
+        str = str + "*"; 
     sino    
         str = str + " ";
         
