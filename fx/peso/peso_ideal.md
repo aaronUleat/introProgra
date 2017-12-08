@@ -24,6 +24,7 @@
 			Imprimir "El peso de la persona se califica como peso ideal ";
 17) 		elseif(imc >= 25 )
 			Imprimir "El peso de la persona se califica como exede el peso normal";
-18) Fin
+18) Fin For;
+19) Fin
 
 ```
