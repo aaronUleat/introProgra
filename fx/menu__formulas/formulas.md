@@ -195,6 +195,7 @@ e. Calcular el área y el perímetro de un rombo
 
 72) Imprimir "El area del rombo es igual a " area_rombo + " y perimetro es igual a " + perimetro_rombo;
 
+73) Fin If
 /*ROMBO*/
 
 73) Fin
