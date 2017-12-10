@@ -1,0 +1,16 @@
+1) Inicio
+
+2) x, y, aux:int = 0; Persona(nombre:string, cm:int);
+
+   n11[3]:Persona;
+   n12[3]:Persona;
+   n13[3]:Persona;
+
+3) p = new Persona;
+4) Solicito un numbre;
+5) p.nombre = nombre Ingresado;
+6) Solicitar numero
+7) Validar si numero == numero:int
+        si(ir paso 8);
+        si no(ir paso 6);
+
