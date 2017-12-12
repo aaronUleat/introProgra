@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59b48cf2-6d7d-4649-93b7-1f11119e946f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fx/comercios/comercios.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fx/taxis/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fx/taxis/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fx/taxis/taxis.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,12 +20,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="comercios.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fx/comercios/comercios.md">
+      <file leaf-file-name="taxis.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fx/taxis/taxis.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+              <first_editor relative-caret-position="204">
+                <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -53,6 +55,9 @@
         <option value="$PROJECT_DIR$/fx/estudiates/index.html" />
         <option value="$PROJECT_DIR$/fx/estudiates/script.js" />
         <option value="$PROJECT_DIR$/fx/comercios/comercios.md" />
+        <option value="$PROJECT_DIR$/fx/taxis/index.html" />
+        <option value="$PROJECT_DIR$/fx/taxis/script.js" />
+        <option value="$PROJECT_DIR$/fx/taxis/taxis.md" />
       </list>
     </option>
   </component>
@@ -111,6 +116,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="practica__colegiada" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cien__posiciones" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="introProgra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="introProgra" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="fx" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -129,7 +152,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="comercios" />
+              <option name="myItemId" value="taxis" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -272,12 +295,12 @@
       <workItem from="1509900884910" duration="15000" />
       <workItem from="1511135176268" duration="1008000" />
       <workItem from="1512925090762" duration="18697000" />
-      <workItem from="1513036454229" duration="1549000" />
+      <workItem from="1513036454229" duration="5138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32226000" />
+    <option name="totallyTimeSpent" value="35815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -516,6 +539,59 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="285">
             <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fx/taxis/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <marker date="1513038934740" expanded="true" signature="31:354" ph="..." />
+            <marker date="1513038934740" expanded="true" signature="38:297" ph="..." />
+            <marker date="1513038934740" expanded="true" signature="92:206" ph="..." />
+            <marker date="1513038934740" expanded="true" signature="304:346" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fx/taxis/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1513040093397" expanded="true" signature="23:900" ph="{...}" />
+            <marker date="1513040093397" expanded="true" signature="104:539" ph="{...}" />
+            <marker date="1513040093397" expanded="true" signature="144:507" ph="{...}" />
+            <marker date="1513040093397" expanded="true" signature="286:342" ph="{...}" />
+            <marker date="1513040093397" expanded="true" signature="360:497" ph="{...}" />
+            <marker date="1513040093397" expanded="true" signature="568:847" ph="{...}" />
+            <marker date="1513040093397" expanded="true" signature="593:693" ph="{...}" />
+            <marker date="1513040093397" expanded="true" signature="699:776" ph="{...}" />
+            <marker date="1513040093397" expanded="true" signature="860:898" ph="{&quot;calc_viaje&quot;: calc_viaje...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practica__colegiada/cien__posiciones/cien.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fx/taxis/taxis.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="204">
+            <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
             <folding />
           </first_editor>
           <second_editor />
