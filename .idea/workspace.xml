@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59b48cf2-6d7d-4649-93b7-1f11119e946f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fx/taxis/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fx/taxis/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fx/taxis/taxis.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fx/cien_posiciones/cien_posiciones.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,12 +18,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="taxis.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fx/taxis/taxis.md">
+      <file leaf-file-name="cien_posiciones.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fx/cien_posiciones/cien_posiciones.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="204">
-                <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+              <first_editor relative-caret-position="270">
+                <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -58,6 +56,7 @@
         <option value="$PROJECT_DIR$/fx/taxis/index.html" />
         <option value="$PROJECT_DIR$/fx/taxis/script.js" />
         <option value="$PROJECT_DIR$/fx/taxis/taxis.md" />
+        <option value="$PROJECT_DIR$/fx/cien_posiciones/cien_posiciones.md" />
       </list>
     </option>
   </component>
@@ -152,7 +151,25 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="taxis" />
+              <option name="myItemId" value="estudiates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="introProgra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="introProgra" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fx" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cien_posiciones" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -295,12 +312,12 @@
       <workItem from="1509900884910" duration="15000" />
       <workItem from="1511135176268" duration="1008000" />
       <workItem from="1512925090762" duration="18697000" />
-      <workItem from="1513036454229" duration="5138000" />
+      <workItem from="1513036454229" duration="5556000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35815000" />
+    <option name="totallyTimeSpent" value="36233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -508,32 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fx/estudiates/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="35" column="263" lean-forward="false" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="263" />
-          <folding>
-            <marker date="1513036448601" expanded="true" signature="35:2031" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="169:392" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="295:333" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="339:389" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="423:1577" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="466:1230" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="857:1191" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="1131:1155" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="1161:1185" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="1197:1226" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="1621:1809" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="1666:1790" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="1709:1735" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="1759:1786" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="1843:1987" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="1906:1937" ph="{...}" />
-            <marker date="1513036448601" expanded="true" signature="1996:2029" ph="{&quot;solicitarEst&quot;: solicitarEst...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fx/comercios/comercios.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -576,22 +567,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practica__colegiada/cien__posiciones/cien.md">
+    <entry file="file://$PROJECT_DIR$/fx/taxis/taxis.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="501">
+            <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fx/taxis/taxis.md">
+    <entry file="file://$PROJECT_DIR$/practica__colegiada/cien__posiciones/cien.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fx/estudiates/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding>
+            <marker date="1513036448601" expanded="true" signature="35:2031" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="169:392" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="295:333" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="339:389" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="423:1577" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="466:1230" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="857:1191" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1131:1155" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1161:1185" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1197:1226" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1621:1809" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1666:1790" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1709:1735" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1759:1786" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1843:1987" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1906:1937" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1996:2029" ph="{&quot;solicitarEst&quot;: solicitarEst...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fx/cien_posiciones/cien_posiciones.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor />
