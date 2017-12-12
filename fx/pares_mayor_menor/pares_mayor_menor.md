@@ -50,4 +50,6 @@
 
 21) Imprimir "El numero menor es igual a " + menor + ", el numero mayor es igual a " + mayor + " y hay " + pares + " numeros pares";
 
+22) Fin
+
 ```
