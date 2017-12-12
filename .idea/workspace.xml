@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59b48cf2-6d7d-4649-93b7-1f11119e946f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fx/estudiates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fx/estudiates/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fx/comercios/comercios.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fx/vocales/script.js" afterPath="$PROJECT_DIR$/fx/vocales/script.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,12 +18,15 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fx/estudiates/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="35" column="263" lean-forward="false" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="263" />
-              <folding />
+      <file leaf-file-name="comercios.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fx/comercios/comercios.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="285">
+                <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -51,6 +52,7 @@
         <option value="$PROJECT_DIR$/fx/estudiates/estudiantes.md" />
         <option value="$PROJECT_DIR$/fx/estudiates/index.html" />
         <option value="$PROJECT_DIR$/fx/estudiates/script.js" />
+        <option value="$PROJECT_DIR$/fx/comercios/comercios.md" />
       </list>
     </option>
   </component>
@@ -69,8 +71,8 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="y" value="27" />
-    <option name="width" value="1366" />
-    <option name="height" value="741" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -91,53 +93,21 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="intro__progra" />
+              <option name="myItemId" value="introProgra" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="intro__progra" />
+              <option name="myItemId" value="introProgra" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="intro__progra" />
+              <option name="myItemId" value="introProgra" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="intro__progra" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trabajo__final" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro__progra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro__progra" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trabajo__final" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crear_usuario" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro__progra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intro__progra" />
+              <option name="myItemId" value="introProgra" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -147,11 +117,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="intro__progra" />
+              <option name="myItemId" value="introProgra" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="intro__progra" />
+              <option name="myItemId" value="introProgra" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -159,14 +129,14 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="estudiates" />
+              <option name="myItemId" value="comercios" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,6 +155,43 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <option name="erlFlags" value="" />
+      <option name="moduleAndFunction" value="" />
+      <option name="params" value="" />
+      <option name="useTestCodePath" value="false" />
+      <option name="workDirectory" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="ErlangUnitRunConfigurationType" factoryName="Erlang Eunit" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <option name="workDirectory" />
+      <module />
+      <option name="functionNames">
+        <set />
+      </option>
+      <option name="kind" value="MODULE" />
+      <option name="moduleNames">
+        <set />
+      </option>
+      <method />
+    </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
@@ -210,6 +217,12 @@
     </configuration>
     <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
       <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="RebarEunitRunConfigurationType" factoryName="Erlang Rebar Eunit" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="command" value="eunit" />
+      <option name="skipDependencies" value="true" />
+      <module />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -259,33 +272,35 @@
       <workItem from="1509900884910" duration="15000" />
       <workItem from="1511135176268" duration="1008000" />
       <workItem from="1512925090762" duration="18697000" />
+      <workItem from="1513036454229" duration="1549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30677000" />
+    <option name="totallyTimeSpent" value="32226000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1366" height="741" extended-state="1" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15885799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="GfmBrowser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11378205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33226323" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22065218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,12 +314,37 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fx/estudiates/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="35" column="263" lean-forward="false" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="263" />
+          <folding>
+            <marker date="1513036448601" expanded="true" signature="35:2031" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="169:392" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="295:333" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="339:389" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="423:1577" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="466:1230" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="857:1191" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1131:1155" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1161:1185" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1197:1226" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1621:1809" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1666:1790" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1709:1735" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1759:1786" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1843:1987" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1906:1937" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1996:2029" ph="{&quot;solicitarEst&quot;: solicitarEst...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/trabajo__final/crear_usuario/crear_usuario.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="638">
             <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -399,7 +439,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="538">
             <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -410,7 +449,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="393">
             <caret line="36" column="7" lean-forward="false" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -420,12 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <marker date="1512935718030" expanded="true" signature="31:339" ph="..." />
-            <marker date="1512935718030" expanded="true" signature="38:282" ph="..." />
-            <marker date="1512935718030" expanded="true" signature="86:194" ph="..." />
-            <marker date="1512935718030" expanded="true" signature="289:331" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -433,15 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-          <folding>
-            <marker date="1512938413619" expanded="true" signature="26:559" ph="{...}" />
-            <marker date="1512938413619" expanded="true" signature="147:511" ph="{...}" />
-            <marker date="1512938413619" expanded="true" signature="189:396" ph="{...}" />
-            <marker date="1512938413619" expanded="true" signature="218:243" ph="{...}" />
-            <marker date="1512938413619" expanded="true" signature="276:301" ph="{...}" />
-            <marker date="1512938413619" expanded="true" signature="367:392" ph="{...}" />
-            <marker date="1512938413619" expanded="true" signature="520:557" ph="{&quot;requestLetters&quot;: requestLetters...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -450,7 +473,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="273">
             <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -460,12 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding>
-            <marker date="1512959613302" expanded="true" signature="31:342" ph="..." />
-            <marker date="1512959613302" expanded="true" signature="38:285" ph="..." />
-            <marker date="1512959613302" expanded="true" signature="86:194" ph="..." />
-            <marker date="1512959613302" expanded="true" signature="292:334" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -473,7 +489,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="35" column="263" lean-forward="false" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="263" />
-          <folding />
+          <folding>
+            <marker date="1513036448601" expanded="true" signature="35:2031" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="169:392" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="295:333" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="339:389" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="423:1577" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="466:1230" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="857:1191" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1131:1155" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1161:1185" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1197:1226" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1621:1809" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1666:1790" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1709:1735" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1759:1786" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1843:1987" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1906:1937" ph="{...}" />
+            <marker date="1513036448601" expanded="true" signature="1996:2029" ph="{&quot;solicitarEst&quot;: solicitarEst...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fx/comercios/comercios.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
